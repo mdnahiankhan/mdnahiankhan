@@ -1,3 +1,4 @@
+![logo](https://github.com/mdnahiankhan/mdnahiankhan/blob/main/Nahian%20Cover-pics%20for%20github.png)
 <h1 align="center">Hi 👋, I'm MD. Nahian</h1>
 <h3 align="center">Hey, I am a qualified Front-End web developer having fast learning capability. A highly organized and hard-working individual looking for a responsible working position to achieve the goal and also build up a challenging career for the upcoming future.</h3>
 
@@ -5,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnahiankhan" alt="mdnahiankhan" /></a> </p>
 
-- 🌱 I’m currently learning **Redux And Node-Mongose**
+- 🌱 I’m currently learning **Redux And Node-Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://mdnahian.netlify.app/](https://mdnahian.netlify.app/)
 
-- 📫 You can connect with me **nahianmd925@gmail.com**
+- 📫 You can connect with me at **nahianmd925@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dgHGEJ2LkAus_xGNWVSI13zncfgheoxK/view?usp=sharing](https://drive.google.com/file/d/1dgHGEJ2LkAus_xGNWVSI13zncfgheoxK/view?usp=sharing)
 
